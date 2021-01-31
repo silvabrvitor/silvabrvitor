@@ -13,3 +13,6 @@ De São Paulo, Capital. E aqui é onde busco desenvolver minhas habilidades na �
 :computer_mouse: Website em construção
 
 :writing_hand: https://brs-vitor.medium.com/
+
+
+![](https://komarev.com/ghpvc/?username=silvabrvitor)
