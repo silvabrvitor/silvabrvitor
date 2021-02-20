@@ -16,3 +16,5 @@ De São Paulo, Capital. E aqui é onde busco desenvolver minhas habilidades na �
 
 
 ![](https://komarev.com/ghpvc/?username=silvabrvitor)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvabrvitor&layout=compact)](https://github.com/silvabrvitor/github-readme-stats)
