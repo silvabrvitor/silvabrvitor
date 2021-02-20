@@ -4,7 +4,7 @@
 
 ### Sobre
 
-De São Paulo, Capital. E aqui é onde busco desenvolver minhas habilidades na área de desenvolvimento.
+De São Paulo, Capital. Técnico de TI e graduando em engenharia da computação. Foco em desenvolver minhas habilidades como DEV, usando tudo o que aprendo com minhas formações. 
 
 :medal_sports: Engenharia da Computação
 
