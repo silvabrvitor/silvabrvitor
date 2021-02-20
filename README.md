@@ -18,3 +18,5 @@ De São Paulo, Capital. Técnico de TI e graduando em engenharia da computação
 ![](https://komarev.com/ghpvc/?username=silvabrvitor) ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=silvabrvitor.silvabrvitor)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvabrvitor&layout=compact)](https://github.com/silvabrvitor/github-readme-stats)
+
+<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"> <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-horizontal.svg">
