@@ -4,9 +4,9 @@
 
 ### Sobre
 
-De São Paulo, Capital. Técnico de TI e graduando em engenharia da computação. Foco em desenvolver minhas habilidades como DEV, usando tudo o que aprendo com minhas formações. 
+De São Paulo, Capital. Técnico de TI e graduando em engenharia de computação. Foco em desenvolver minhas habilidades como DEV, usando tudo o que aprendo com minhas formações. 
 
-:medal_sports: Engenharia da Computação
+:medal_sports: Engenharia de Computação
 
 :medal_sports: Técnico em Informática
 
