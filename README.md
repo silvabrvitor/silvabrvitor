@@ -12,7 +12,6 @@ De São Paulo, Capital. Técnico de TI e graduando em engenharia de computação
 
 :computer_mouse: Website em construção
 
-:writing_hand: https://brs-vitor.medium.com/
 
 ![](https://komarev.com/ghpvc/?username=silvabrvitor) ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=silvabrvitor.silvabrvitor)
 
